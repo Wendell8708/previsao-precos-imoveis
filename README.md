@@ -2,7 +2,9 @@
 
 Projeto de Machine Learning que prevê o valor médio de imóveis na Califórnia a partir de dados socioeconômicos e geográficos, comparando modelos de regressão.
 
-![Mapa de preços](img/mapa.png)
+## Mapa de Preços
+<img width="826" height="687" alt="image" src="https://github.com/user-attachments/assets/7454d31d-4409-4fdd-90cf-75df5ab28167" />
+
 
 ## 🎯 Objetivo
 
@@ -44,7 +46,9 @@ Construir e avaliar modelos capazes de estimar o preço médio dos imóveis de u
 | Gradient Boosting | 0,518 | 0,360 | 0,798 |
 | Regressão Linear | 0,720 | 0,526 | 0,610 |
 
-![Previsto x real](img/previsto_real.png)
+## Previsto x Real
+<img width="661" height="691" alt="image" src="https://github.com/user-attachments/assets/1f09a8d3-bc44-4c03-83f7-fabde70a187c" />
+
 
 ## 💡 Conclusões
 
